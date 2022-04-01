@@ -1,2 +1,15 @@
 # Financial_Fraud_Detection
-develop a model for predicting fraudulent transactions for a  financial company and use insights from the model to develop an actionable plan. Data for the  case is available in CSV format having 6362620 rows and 10 columns.
+The objective of this project is to develop a model for predicting fraudulent transactions for a financial company. There are 6362620 rows and 10 columns in the dataset.
+
+#Libraries Used:
+Numpy
+
+Pandas
+
+Matplotlib
+
+Seaborn
+
+Sklearn
+
+imblearn
